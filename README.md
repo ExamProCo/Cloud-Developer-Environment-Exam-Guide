@@ -2,6 +2,9 @@
 
 > 🚧 WIP - This exam guide is a work-in-progress. Things are likely to change.
 
+## Contributors
+
+||
 
 ## Preramble
 
@@ -61,3 +64,56 @@ The exam is divided into 6 domains, each with their own weighting. The weight of
 | 5. Gitpod Workflows  | 25% |
 | 6. Gitpod.io, Gitpod Enteprise, Gitpod OSS  | 20% |
 | TOTAL | 100% |
+
+
+### Domain 1: Cloud Development Certification
+- Define what is a Cloud IDE
+- Define the benefits of utilizing a Cloud IDE
+- Context-based Developer Workflows  
+- Define what is VSCode
+    - Understand key components of VSCode, Settings Sync, Extensions
+
+### Domain 2: Gitpod Concepts
+- Define Gitpod.io vs Git OSS vs Gitpod Enterprise
+- Understand the key difference of Gitpod vs other Cloud IDEs
+
+### Domain 3: Gitpod Integrations
+
+How Gitpod intersects with third-party services.
+- Version Control System (VCS) Integrations
+    - Github
+    - Gitlab
+    - Bitbucket
+- JetBrains
+- Chrome Extension
+- Bookmarklet
+
+### Domain 4: Gitpod Configuration
+
+- Gitpod Configuration File (gitpod.yml)
+- Gitpod Ports
+- Gitpod Workspace Full Image
+- Gitpod Custom Docker Images
+
+### Domain 5: Gitpod Workflows
+
+The lifecycle of a developer workflow when working with Cloud IDEs or Gitpod in general.
+-	Gitpod Workspaces
+    - Workspace directory
+    - Define the use case for
+    - Timeouts
+    - Ephemeral storage
+    - Garbage Collection
+- Gitpod CLI
+- VPN with Gitpod*
+- Gitpod Workspaces in Desktop IDE
+- Teams and Projects
+
+### Domain 6: Gitpod.io, Gitpod Enterprise, Gitpod OSS
+- Identify which managed services Gitpod has support for:
+    - K3s, GKE, AKS, EKS, RKE
+- Describe the process to setup Gitpod on a self-host managed service
+-	individual and Team Pricing
+-	Support
+-	Enterprise Licensing
+-	Anatomy of Gitpod OSS Project 
