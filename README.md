@@ -2,10 +2,6 @@
 
 > 🚧 WIP - This exam guide is a work-in-progress. Things are likely to change.
 
-## Contributors
-
-||
-
 ## Preramble
 
 - Certification Title: Cloud Developer Enviroment
