@@ -41,7 +41,7 @@ A certification will be product-focused but it also teach the broad concepts of 
     - Containers eg. Podman, Buildah, ...
 
 ## Details
-
+- Course Code: EXP-CDE-01
 - Passing Score: 80%
 - Questions 55 
     - Multiple-Choice and Multi-Select
