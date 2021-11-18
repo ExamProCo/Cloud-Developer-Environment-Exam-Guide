@@ -53,12 +53,11 @@ The exam is divided into 6 domains, each with their own weighting. The weight of
 
 | Domain | % of Exam |
 |---|----|
-| 1. Cloud Developer Environment Concepts | 10% |
-| 2. Gitpod Concepts  | 5% |
-| 3. Gitpod Integrations  | 10% |
-| 4. Gitpod Configurations  | 30% |
-| 5. Gitpod Workflows  | 25% |
-| 6. Gitpod.io, Gitpod Enteprise, Gitpod OSS  | 20% |
+| 1. Cloud Developer Environment Concepts | 7% |
+| 2. Gitpod Integrations  | 5% |
+| 3. Gitpod Configurations  | 35% |
+| 4. Gitpod Workflows  | 35% |
+| 5. Gitpod.io, Gitpod Enteprise, Gitpod OSS  | 18% |
 | TOTAL | 100% |
 
 
@@ -70,12 +69,10 @@ The exam is divided into 6 domains, each with their own weighting. The weight of
 - Context-based Developer Workflows  
 - Define what is VSCode
     - Understand key components of VSCode, Settings Sync, Extensions
-
-### Domain 2: Gitpod Concepts
 - Define Gitpod.io vs Git OSS vs Gitpod Enterprise
 - Understand the key difference of Gitpod vs other Cloud IDEs
 
-### Domain 3: Gitpod Integrations
+### Domain 2: Gitpod Integrations
 
 How Gitpod intersects with third-party services.
 - Version Control System (VCS) Integrations
@@ -86,14 +83,14 @@ How Gitpod intersects with third-party services.
 - Chrome Extension
 - Bookmarklet
 
-### Domain 4: Gitpod Configuration
+### Domain 3: Gitpod Configuration
 
 - Gitpod Configuration File (gitpod.yml)
 - Gitpod Ports
 - Gitpod Workspace Full Image
 - Gitpod Custom Docker Images
 
-### Domain 5: Gitpod Workflows
+### Domain 4: Gitpod Workflows
 
 The lifecycle of a developer workflow when working with Cloud IDEs or Gitpod in general.
 -	Gitpod Workspaces
@@ -107,7 +104,7 @@ The lifecycle of a developer workflow when working with Cloud IDEs or Gitpod in 
 - Gitpod Workspaces in Desktop IDE
 - Teams and Projects
 
-### Domain 6: Gitpod.io, Gitpod Enterprise, Gitpod OSS
+### Domain 5: Gitpod.io, Gitpod Enterprise, Gitpod OSS
 - Identify which managed services Gitpod has support for:
     - K3s, GKE, AKS, EKS, RKE
 - Describe the process to setup Gitpod on a self-host managed service
