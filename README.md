@@ -63,8 +63,10 @@ The exam is divided into 6 domains, each with their own weighting. The weight of
 
 
 ### Domain 1: Cloud Development Certification
-- Define what is a Cloud IDE
-- Define the benefits of utilizing a Cloud IDE
+- Define what is Cloud-Native?
+- Define what is a Cloud Developer?
+- Define what is a Cloud Developer Environment
+- Define the benefits of utilizing a Cloud Developer Environment
 - Context-based Developer Workflows  
 - Define what is VSCode
     - Understand key components of VSCode, Settings Sync, Extensions
